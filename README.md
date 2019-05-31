@@ -18,14 +18,15 @@ npm run build
 npm run build --report
 ```
 ## 项目效果预览
- `推荐页面`、`歌手页面`、`排行榜`以及`搜索页面`
+ + `推荐页面`、`歌手页面`、`排行榜`以及`搜索页面`
 <div align="center">
 <img src="https://github.com/Follish-Max/yun_music/blob/master/static/images/recommend.png" width="200" >
 <img src="https://github.com/Follish-Max/yun_music/blob/master/static/images/singer.png" width="200" >
 <img src="https://github.com/Follish-Max/yun_music/blob/master/static/images/rank.png" width="200" >
  <img src="https://github.com/Follish-Max/yun_music/blob/master/static/images/search.png" width="200" >
  </div>
- `推荐歌单列表`
+ 
+  + `推荐歌单列表`
 <div align=center>
   <img src="https://github.com/Follish-Max/yun_music/blob/master/static/images/recommend-list.png" width="300" >
 </div>
