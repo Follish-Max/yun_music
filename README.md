@@ -31,3 +31,39 @@ npm run build --report
   <img src="https://github.com/Follish-Max/yun_music/blob/master/static/images/recommend-list.png" width="300" >
 </div>
 
+  + `播放器主界面`
+<div align=center>
+  <img src="https://github.com/Follish-Max/yun_music/blob/master/static/images/player-main.png" width="300" >
+</div>
+
+  + `播放器歌词页面`
+<div align=center>
+  <img src="https://github.com/Follish-Max/yun_music/blob/master/static/images/player-lyric.png" width="300" >
+</div>
+
+  + `喜欢歌曲列表`
+<div align=center>
+  <img src="https://github.com/Follish-Max/yun_music/blob/master/static/images/like.png" width="300" >
+</div>
+
+  + `添加歌曲列表`
+<div align=center>
+  <img src="https://github.com/Follish-Max/yun_music/blob/master/static/images/add.png" width="300" >
+</div>
+
+  + `歌手详情页面`
+<div align=center>
+  <img src="https://github.com/Follish-Max/yun_music/blob/master/static/images/singer-detail.png" width="300" >
+</div>
+
+  + `搜索详情页面`
+<div align=center>
+  <img src="https://github.com/Follish-Max/yun_music/blob/master/static/images/search-detail.png" width="300" >
+</div>
+
+  + `最近听的`
+<div align=center>
+  <img src="https://github.com/Follish-Max/yun_music/blob/master/static/images/recent-listen.png" width="300" >
+</div>
+
+
