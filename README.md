@@ -18,4 +18,4 @@ npm run build
 npm run build --report
 ```
 
-[recommend](https://github.com/Follish-Max/yun_music/blob/master/static/images/recommend.png)
+![recommend](https://github.com/Follish-Max/yun_music/blob/master/static/images/recommend.png)
