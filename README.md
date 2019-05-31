@@ -26,5 +26,7 @@ npm run build --report
  <img src="https://github.com/Follish-Max/yun_music/blob/master/static/images/search.png" width="200" >
  </div>
  `推荐歌单列表`
-<div align=center>![推荐歌单列表](https://github.com/Follish-Max/yun_music/blob/master/static/images/recommond-list.png)
+<div align=center>
+  ![推荐歌单列表](https://github.com/Follish-Max/yun_music/blob/master/static/images/recommond-list.png)
+</div>
 
