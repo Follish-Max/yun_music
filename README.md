@@ -18,19 +18,9 @@ npm run build
 npm run build --report
 ```
 ## 项目效果预览
-### 推荐页面
-![recommend](https://github.com/Follish-Max/yun_music/blob/master/static/images/recommend.png)
-### 歌手页面
-![singer](https://github.com/Follish-Max/yun_music/blob/master/static/images/singer.png)
-### 排行榜页面
-<img src="https://github.com/Follish-Max/yun_music/blob/master/static/images/rank.png" width="200">
 <div align="center">
- 推荐页面
 <img src="https://github.com/Follish-Max/yun_music/blob/master/static/images/recommend.png" width="200" >
- 推荐页面
 <img src="https://github.com/Follish-Max/yun_music/blob/master/static/images/singer.png" width="200" >
- 推荐页面
 <img src="https://github.com/Follish-Max/yun_music/blob/master/static/images/rank.png" width="200" >
-
  </div>
 
