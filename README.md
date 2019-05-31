@@ -18,7 +18,7 @@ npm run build
 npm run build --report
 ```
 ## 项目效果预览
-+ 推荐页面
+### 推荐页面
 ![recommend](https://github.com/Follish-Max/yun_music/blob/master/static/images/recommend.png)
-+ 歌手页面
+### 歌手页面
 ![singer](https://github.com/Follish-Max/yun_music/blob/master/static/images/singer.png)
