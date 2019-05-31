@@ -22,3 +22,5 @@ npm run build --report
 ![recommend](https://github.com/Follish-Max/yun_music/blob/master/static/images/recommend.png)
 ### 歌手页面
 ![singer](https://github.com/Follish-Max/yun_music/blob/master/static/images/singer.png)
+### 排行榜页面
+<img src="https://github.com/Follish-Max/yun_music/blob/master/static/images/rank.png"  height="330" width="495">
