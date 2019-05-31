@@ -25,10 +25,11 @@ npm run build --report
 ### 排行榜页面
 <img src="https://github.com/Follish-Max/yun_music/blob/master/static/images/rank.png" width="200">
 <div align="center">
+  <h3>推荐页面</h3>
 <img src="https://github.com/Follish-Max/yun_music/blob/master/static/images/recommend.png" width="200" >
-
+  <h3>推荐页面</h3>
 <img src="https://github.com/Follish-Max/yun_music/blob/master/static/images/singer.png" width="200" >
-
+  <h3>推荐页面</h3>
 <img src="https://github.com/Follish-Max/yun_music/blob/master/static/images/rank.png" width="200" >
 
  </div>
